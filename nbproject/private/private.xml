@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Daoo/CashDao.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Daoo/GLDao.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dao/Impl/SQLConnection.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dao/Impl/FactorItemDaoImpl.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Daoo/CustomerDao.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dto/FactorItems.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Daoo/FactorItemDao.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/CashManager.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Daoo/ProductDao.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dto/TotalGL.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dto/Factor.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dao/Impl/CashDaoImpl.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dto/Product.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dao/Impl/FactorDaoImpl.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dao/Impl/ProductDaoImpl.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dto/Customer.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dao/Impl/TotalglDaoImpl.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dto/Settings.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Daoo/FactorDao.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dto/Cash.java</file>
+            <file>file:/C:/My%20Files/java/CashManager/src/cashmanager/Dao/Impl/CustomerDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
